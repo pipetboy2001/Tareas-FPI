@@ -1,0 +1,30 @@
+###ENTRADA###
+###SALIDA###
+hello world.
+###ENTRADA###
+###SALIDA###
+hello world.
+###ENTRADA###
+###SALIDA###
+hello world.
+###ENTRADA###
+###SALIDA###
+hello world.
+###ENTRADA###
+###SALIDA###
+hello world.
+###ENTRADA###
+###SALIDA###
+hello world.
+###ENTRADA###
+###SALIDA###
+hello world.
+###ENTRADA###
+###SALIDA###
+hello world.
+###ENTRADA###
+###SALIDA###
+hello world.
+###ENTRADA###
+###SALIDA###
+hello world.
