@@ -1,0 +1,40 @@
+###ENTRADA###
+44
+###SALIDA###
+Ingrese un número: Deficiente
+###ENTRADA###
+90
+###SALIDA###
+Ingrese un número: Abundante
+###ENTRADA###
+20
+###SALIDA###
+Ingrese un número: Abundante
+###ENTRADA###
+28
+###SALIDA###
+Ingrese un número: Perfecto
+###ENTRADA###
+6
+###SALIDA###
+Ingrese un número: Perfecto
+###ENTRADA###
+42
+###SALIDA###
+Ingrese un número: Abundante
+###ENTRADA###
+25
+###SALIDA###
+Ingrese un número: Deficiente
+###ENTRADA###
+29
+###SALIDA###
+Ingrese un número: Deficiente
+###ENTRADA###
+496
+###SALIDA###
+Ingrese un número: Perfecto
+###ENTRADA###
+41
+###SALIDA###
+Ingrese un número: Deficiente
