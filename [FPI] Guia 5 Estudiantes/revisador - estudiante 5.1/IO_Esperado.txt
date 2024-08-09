@@ -1,0 +1,296 @@
+###ENTRADA###
+18
+###SALIDA###
+Ingrese la cantidad de elefantes: 1 elefante se balanceaba sobre la tela de una araña,
+como veia que resistia fue a llamar a otro elefante.
+2 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+3 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+4 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+5 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+6 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+7 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+8 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+9 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+10 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+11 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+12 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+13 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+14 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+15 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+16 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+17 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+18 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+###ENTRADA###
+23
+###SALIDA###
+Ingrese la cantidad de elefantes: 1 elefante se balanceaba sobre la tela de una araña,
+como veia que resistia fue a llamar a otro elefante.
+2 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+3 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+4 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+5 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+6 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+7 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+8 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+9 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+10 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+11 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+12 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+13 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+14 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+15 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+16 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+17 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+18 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+19 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+20 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+21 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+22 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+23 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+###ENTRADA###
+5
+###SALIDA###
+Ingrese la cantidad de elefantes: 1 elefante se balanceaba sobre la tela de una araña,
+como veia que resistia fue a llamar a otro elefante.
+2 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+3 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+4 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+5 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+###ENTRADA###
+5
+###SALIDA###
+Ingrese la cantidad de elefantes: 1 elefante se balanceaba sobre la tela de una araña,
+como veia que resistia fue a llamar a otro elefante.
+2 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+3 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+4 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+5 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+###ENTRADA###
+15
+###SALIDA###
+Ingrese la cantidad de elefantes: 1 elefante se balanceaba sobre la tela de una araña,
+como veia que resistia fue a llamar a otro elefante.
+2 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+3 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+4 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+5 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+6 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+7 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+8 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+9 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+10 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+11 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+12 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+13 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+14 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+15 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+###ENTRADA###
+7
+###SALIDA###
+Ingrese la cantidad de elefantes: 1 elefante se balanceaba sobre la tela de una araña,
+como veia que resistia fue a llamar a otro elefante.
+2 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+3 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+4 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+5 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+6 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+7 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+###ENTRADA###
+3
+###SALIDA###
+Ingrese la cantidad de elefantes: 1 elefante se balanceaba sobre la tela de una araña,
+como veia que resistia fue a llamar a otro elefante.
+2 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+3 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+###ENTRADA###
+30
+###SALIDA###
+Ingrese la cantidad de elefantes: 1 elefante se balanceaba sobre la tela de una araña,
+como veia que resistia fue a llamar a otro elefante.
+2 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+3 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+4 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+5 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+6 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+7 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+8 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+9 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+10 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+11 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+12 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+13 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+14 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+15 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+16 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+17 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+18 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+19 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+20 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+21 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+22 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+23 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+24 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+25 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+26 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+27 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+28 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+29 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+30 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+###ENTRADA###
+21
+###SALIDA###
+Ingrese la cantidad de elefantes: 1 elefante se balanceaba sobre la tela de una araña,
+como veia que resistia fue a llamar a otro elefante.
+2 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+3 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+4 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+5 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+6 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+7 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+8 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+9 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+10 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+11 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+12 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+13 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+14 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+15 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+16 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+17 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+18 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+19 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+20 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+21 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+###ENTRADA###
+6
+###SALIDA###
+Ingrese la cantidad de elefantes: 1 elefante se balanceaba sobre la tela de una araña,
+como veia que resistia fue a llamar a otro elefante.
+2 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+3 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+4 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+5 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.
+6 elefantes se balanceaban sobre la tela de una araña,
+como veia que resistia fueron a llamar a otro elefante.

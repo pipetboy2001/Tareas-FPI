@@ -1,0 +1,40 @@
+###ENTRADA###
+ya no hay nOtiCiaS, solo propAganda
+###SALIDA###
+Ingrese el texto: El texto tiene 13 vocales
+###ENTRADA###
+HAy cosas Que OLvidamoS... y hAy COsaS Que no PodEmos olVIDar, eS gracIoso, No sE Cual eS mAs TrisTe
+###SALIDA###
+Ingrese el texto: El texto tiene 34 vocales
+###ENTRADA###
+es peliGrosO vIAjaR solO. tOmA eSTo
+###SALIDA###
+Ingrese el texto: El texto tiene 14 vocales
+###ENTRADA###
+Lo uNico que el mal necesIta parA TRIuNfAr eS quE lA gEntE de biEn no hAgA nadA.
+###SALIDA###
+Ingrese el texto: El texto tiene 31 vocales
+###ENTRADA###
+nAda Es VErDad. tOdO eSta PErmItiDO
+###SALIDA###
+Ingrese el texto: El texto tiene 13 vocales
+###ENTRADA###
+si todo Es UN sueÑo, No me DespierTes.
+###SALIDA###
+Ingrese el texto: El texto tiene 14 vocales
+###ENTRADA###
+muChoS cREEN Que el tIEmpo Es como uN rIO que fluye SegurO Y VEloz EN unA DIrecCiOn; pero Yo lE he visto la CARA aL tiEMpO y os asEguRO Que No eS asI. el tieMpO ES uN ocEaNO eN la toRmentA... os PrEgunTAreIs quien SOY verdAdeRAMENtE y poR qUe diGo esto. VENiD; os VoY a contar Una historiA coMo Ninguna OtrA QUe hayaIS eSCuchado ANtes
+###SALIDA###
+Ingrese el texto: El texto tiene 126 vocales
+###ENTRADA###
+ouR pRIncess is in anotHEr casTLe!
+###SALIDA###
+Ingrese el texto: El texto tiene 11 vocales
+###ENTRADA###
+La ESPERaNZa es lO quE Nos hACE MaS FuERtes. es La RaZoN por lA que estamOs AQuI. eS con lo Que luchaMOS cUaNdO todO lO demas sE Ha pErdido
+###SALIDA###
+Ingrese el texto: El texto tiene 51 vocales
+###ENTRADA###
+lA gUerrA. la GUerra NO cAMBiA nuncA
+###SALIDA###
+Ingrese el texto: El texto tiene 14 vocales
