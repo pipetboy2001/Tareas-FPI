@@ -1,0 +1,40 @@
+###ENTRADA###
+T
+###SALIDA###
+Ingrese un carácter: consonante
+###ENTRADA###
+o
+###SALIDA###
+Ingrese un carácter: vocal
+###ENTRADA###
+{
+###SALIDA###
+Ingrese un carácter: otro
+###ENTRADA###
+k
+###SALIDA###
+Ingrese un carácter: consonante
+###ENTRADA###
+3
+###SALIDA###
+Ingrese un carácter: otro
+###ENTRADA###
+P
+###SALIDA###
+Ingrese un carácter: consonante
+###ENTRADA###
+H
+###SALIDA###
+Ingrese un carácter: consonante
+###ENTRADA###
+G
+###SALIDA###
+Ingrese un carácter: consonante
+###ENTRADA###
+P
+###SALIDA###
+Ingrese un carácter: consonante
+###ENTRADA###
+3
+###SALIDA###
+Ingrese un carácter: otro

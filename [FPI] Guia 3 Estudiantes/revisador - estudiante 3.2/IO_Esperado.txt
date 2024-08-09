@@ -1,0 +1,40 @@
+###ENTRADA###
+6
+###SALIDA###
+Ingrese el número del mes: 30
+###ENTRADA###
+2
+###SALIDA###
+Ingrese el número del mes: 28
+###ENTRADA###
+3
+###SALIDA###
+Ingrese el número del mes: 31
+###ENTRADA###
+4
+###SALIDA###
+Ingrese el número del mes: 30
+###ENTRADA###
+7
+###SALIDA###
+Ingrese el número del mes: 31
+###ENTRADA###
+8
+###SALIDA###
+Ingrese el número del mes: 31
+###ENTRADA###
+5
+###SALIDA###
+Ingrese el número del mes: 31
+###ENTRADA###
+10
+###SALIDA###
+Ingrese el número del mes: 31
+###ENTRADA###
+12
+###SALIDA###
+Ingrese el número del mes: 31
+###ENTRADA###
+1
+###SALIDA###
+Ingrese el número del mes: 31
