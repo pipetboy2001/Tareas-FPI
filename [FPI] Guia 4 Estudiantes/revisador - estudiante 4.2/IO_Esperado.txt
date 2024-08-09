@@ -1,0 +1,43 @@
+###ENTRADA###
+Bi,X28;0
+###SALIDA###
+Ingrese su pass: Su password cumple con todas las reglas.
+###ENTRADA###
+FIkc;Y,1
+###SALIDA###
+Ingrese su pass: Su password cumple con todas las reglas.
+###ENTRADA###
+V!d,G9o;
+###SALIDA###
+Ingrese su pass: Su password cumple con todas las reglas.
+###ENTRADA###
+?s$NoF=
+###SALIDA###
+Ingrese su pass: Debe tener 8 caracteres.
+###ENTRADA###
+kx6,R]c;
+###SALIDA###
+Ingrese su pass: Su password cumple con todas las reglas.
+###ENTRADA###
+RH2hSy9
+###SALIDA###
+Ingrese su pass: Debe tener 8 caracteres.
+###ENTRADA###
+3MKp2g)
+###SALIDA###
+Ingrese su pass: Debe tener 8 caracteres.
+###ENTRADA###
+wwxy%c8w
+###SALIDA###
+Ingrese su pass: Debe tener al menos una mayúscula.
+Debe tener al menos una coma.
+Debe tener al menos una punto y coma.
+###ENTRADA###
+ñd¨Xx;wR)
+###SALIDA###
+Ingrese su pass: Debe tener 8 caracteres.
+###ENTRADA###
+oIfJ9UPD
+###SALIDA###
+Ingrese su pass: Debe tener al menos una coma.
+Debe tener al menos una punto y coma.

@@ -1,0 +1,110 @@
+###ENTRADA###
+Javier
+53
+Evelyn
+11
+Olivia
+55
+Nicole
+21
+###SALIDA###
+Ingrese el primer nombre: Ingrese la primera edad: Ingrese el segundo nombre: Ingrese la segunda edad: Ingrese el tercer nombre: Ingrese la tercera edad: Ingrese el cuarto nombre: Ingrese la cuarta edad: Olivia
+###ENTRADA###
+Javier
+9
+Camila
+53
+Paola
+21
+Fernanda
+48
+###SALIDA###
+Ingrese el primer nombre: Ingrese la primera edad: Ingrese el segundo nombre: Ingrese la segunda edad: Ingrese el tercer nombre: Ingrese la tercera edad: Ingrese el cuarto nombre: Ingrese la cuarta edad: Camila
+###ENTRADA###
+Nicole
+16
+Julio
+45
+John
+84
+Claudia
+40
+###SALIDA###
+Ingrese el primer nombre: Ingrese la primera edad: Ingrese el segundo nombre: Ingrese la segunda edad: Ingrese el tercer nombre: Ingrese la tercera edad: Ingrese el cuarto nombre: Ingrese la cuarta edad: John
+###ENTRADA###
+John
+5
+Almendra
+8
+Matias
+55
+Nicole
+38
+###SALIDA###
+Ingrese el primer nombre: Ingrese la primera edad: Ingrese el segundo nombre: Ingrese la segunda edad: Ingrese el tercer nombre: Ingrese la tercera edad: Ingrese el cuarto nombre: Ingrese la cuarta edad: Matias
+###ENTRADA###
+Olivia
+84
+Evelyn
+70
+John
+57
+Fabián
+34
+###SALIDA###
+Ingrese el primer nombre: Ingrese la primera edad: Ingrese el segundo nombre: Ingrese la segunda edad: Ingrese el tercer nombre: Ingrese la tercera edad: Ingrese el cuarto nombre: Ingrese la cuarta edad: Olivia
+###ENTRADA###
+Camila
+85
+Olivia
+19
+Julio
+43
+Almendra
+18
+###SALIDA###
+Ingrese el primer nombre: Ingrese la primera edad: Ingrese el segundo nombre: Ingrese la segunda edad: Ingrese el tercer nombre: Ingrese la tercera edad: Ingrese el cuarto nombre: Ingrese la cuarta edad: Camila
+###ENTRADA###
+Olivia
+45
+Claudia
+79
+Nicole
+9
+Fabián
+17
+###SALIDA###
+Ingrese el primer nombre: Ingrese la primera edad: Ingrese el segundo nombre: Ingrese la segunda edad: Ingrese el tercer nombre: Ingrese la tercera edad: Ingrese el cuarto nombre: Ingrese la cuarta edad: Claudia
+###ENTRADA###
+Paola
+21
+Matias
+49
+Fabián
+51
+Luciano
+53
+###SALIDA###
+Ingrese el primer nombre: Ingrese la primera edad: Ingrese el segundo nombre: Ingrese la segunda edad: Ingrese el tercer nombre: Ingrese la tercera edad: Ingrese el cuarto nombre: Ingrese la cuarta edad: Luciano
+###ENTRADA###
+Fernanda
+64
+Paola
+42
+Luciano
+19
+Raúl
+83
+###SALIDA###
+Ingrese el primer nombre: Ingrese la primera edad: Ingrese el segundo nombre: Ingrese la segunda edad: Ingrese el tercer nombre: Ingrese la tercera edad: Ingrese el cuarto nombre: Ingrese la cuarta edad: Raúl
+###ENTRADA###
+Camila
+45
+Evelyn
+37
+Luciano
+36
+Olivia
+78
+###SALIDA###
+Ingrese el primer nombre: Ingrese la primera edad: Ingrese el segundo nombre: Ingrese la segunda edad: Ingrese el tercer nombre: Ingrese la tercera edad: Ingrese el cuarto nombre: Ingrese la cuarta edad: Olivia
