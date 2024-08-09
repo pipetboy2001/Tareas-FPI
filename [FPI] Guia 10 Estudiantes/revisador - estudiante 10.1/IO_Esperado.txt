@@ -1,0 +1,40 @@
+###ENTRADA###
+¿Son mulas o cívicos alumnos?
+###SALIDA###
+True
+###ENTRADA###
+¿Acaso comí mocos acá?
+###SALIDA###
+True
+###ENTRADA###
+Necesito un test que dé negativo y comprobarlo.
+###SALIDA###
+False
+###ENTRADA###
+“A Dubái cederé” decía Buda.
+###SALIDA###
+True
+###ENTRADA###
+Allí cesó tu sed, ¿Oyes eso, Jair amada? ¿Has oído a la odiosa hada María José? Sé yo de su tosecilla.
+###SALIDA###
+True
+###ENTRADA###
+Esto totalmente no es un palíndromo.
+###SALIDA###
+False
+###ENTRADA###
+Esto es solo una frase random.
+###SALIDA###
+False
+###ENTRADA###
+Parece que funciona, yei.
+###SALIDA###
+False
+###ENTRADA###
+Hola soy yn ejemplo
+###SALIDA###
+False
+###ENTRADA###
+Yo dono rosas, oro no doy.
+###SALIDA###
+True
