@@ -1,0 +1,58 @@
+###ENTRADA###
+Squirtle
+###SALIDA###
+Ingrese el nombre del Pokémon a buscar: N° 007
+Squirtle
+Water/
+###ENTRADA###
+dewgong
+###SALIDA###
+Ingrese el nombre del Pokémon a buscar: N° 087
+Dewgong
+Water/Ice
+###ENTRADA###
+Pikachu
+###SALIDA###
+Ingrese el nombre del Pokémon a buscar: N° 025
+Pikachu
+Electric/
+###ENTRADA###
+Gengar
+###SALIDA###
+Ingrese el nombre del Pokémon a buscar: N° 094
+Gengar
+Ghost/Poison
+###ENTRADA###
+agumon
+###SALIDA###
+Ingrese el nombre del Pokémon a buscar: ¡Pokémon no encontrado!
+###ENTRADA###
+vaporeon
+###SALIDA###
+Ingrese el nombre del Pokémon a buscar: N° 134
+Vaporeon
+Water/
+###ENTRADA###
+Mr. Rime
+###SALIDA###
+Ingrese el nombre del Pokémon a buscar: N° 866
+Mr. Rime
+Ice/Psychic
+###ENTRADA###
+sandy shocks
+###SALIDA###
+Ingrese el nombre del Pokémon a buscar: N° 989
+Sandy Shocks
+Electric/Ground
+###ENTRADA###
+Articuno
+###SALIDA###
+Ingrese el nombre del Pokémon a buscar: N° 144
+Articuno
+Ice/Flying
+###ENTRADA###
+MewTwo
+###SALIDA###
+Ingrese el nombre del Pokémon a buscar: N° 150
+Mewtwo
+Psychic/
