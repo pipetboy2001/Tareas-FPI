@@ -1,0 +1,40 @@
+###ENTRADA###
+13
+###SALIDA###
+Ingrese el lado del hexágono: El área es 439.075
+###ENTRADA###
+2
+###SALIDA###
+Ingrese el lado del hexágono: El área es 10.392
+###ENTRADA###
+46
+###SALIDA###
+Ingrese el lado del hexágono: El área es 5497.529
+###ENTRADA###
+23
+###SALIDA###
+Ingrese el lado del hexágono: El área es 1374.382
+###ENTRADA###
+41
+###SALIDA###
+Ingrese el lado del hexágono: El área es 4367.366
+###ENTRADA###
+87
+###SALIDA###
+Ingrese el lado del hexágono: El área es 19664.839
+###ENTRADA###
+5
+###SALIDA###
+Ingrese el lado del hexágono: El área es 64.952
+###ENTRADA###
+12
+###SALIDA###
+Ingrese el lado del hexágono: El área es 374.123
+###ENTRADA###
+52
+###SALIDA###
+Ingrese el lado del hexágono: El área es 7025.198
+###ENTRADA###
+45
+###SALIDA###
+Ingrese el lado del hexágono: El área es 5261.104

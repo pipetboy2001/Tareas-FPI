@@ -1,0 +1,50 @@
+###ENTRADA###
+Emma
+1995
+###SALIDA###
+Nombre: Año de nacimiento: Hola, Emma. Tienes 29 años.
+###ENTRADA###
+Miguel
+2005
+###SALIDA###
+Nombre: Año de nacimiento: Hola, Miguel. Tienes 19 años.
+###ENTRADA###
+Mateo
+1999
+###SALIDA###
+Nombre: Año de nacimiento: Hola, Mateo. Tienes 25 años.
+###ENTRADA###
+Nicole
+1990
+###SALIDA###
+Nombre: Año de nacimiento: Hola, Nicole. Tienes 34 años.
+###ENTRADA###
+Valeria
+1950
+###SALIDA###
+Nombre: Año de nacimiento: Hola, Valeria. Tienes 74 años.
+###ENTRADA###
+Gonzalo
+1926
+###SALIDA###
+Nombre: Año de nacimiento: Hola, Gonzalo. Tienes 98 años.
+###ENTRADA###
+Martina
+2012
+###SALIDA###
+Nombre: Año de nacimiento: Hola, Martina. Tienes 12 años.
+###ENTRADA###
+David
+2003
+###SALIDA###
+Nombre: Año de nacimiento: Hola, David. Tienes 21 años.
+###ENTRADA###
+Julia
+1997
+###SALIDA###
+Nombre: Año de nacimiento: Hola, Julia. Tienes 27 años.
+###ENTRADA###
+Javier
+1981
+###SALIDA###
+Nombre: Año de nacimiento: Hola, Javier. Tienes 43 años.
